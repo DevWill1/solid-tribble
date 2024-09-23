@@ -1,0 +1,24 @@
+body{
+    background-image: url('images/bg-red.png');
+    mask-repeat: no-repeat;
+    
+}
+#box-form{
+    background-color: rgb(255, 120, 120);
+    background-size: cover;
+    width: 350px;
+    height: 200px;
+    
+    
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    display: flex;
+}
+
+.h3-cadastro{
+    align-items: center;
+    justify-content: center;
+
+}
